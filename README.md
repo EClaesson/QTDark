@@ -8,4 +8,4 @@ QTDark aims to be a full stylesheet (covering all widgets) that focuses on simpl
 No rounded corners, no fancy gradients, no fuss.
 
 
-SCREENSHOTS HERE
+![Screenshot](/screenshots/screenshot_1.png "Screenshot 1")

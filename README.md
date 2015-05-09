@@ -1,7 +1,6 @@
 QTDark
 ======
 
-As of 2015-03-31 development has started again.
 
 
 (Very) Old screenshots:
